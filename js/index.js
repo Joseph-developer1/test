@@ -1,1 +1,1 @@
-alert(`the website might not work properly because it's currently in development`)
+alert(`please note that this website is in development and is not finished. you can still view the page tho.`)
