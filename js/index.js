@@ -1,1 +1,1 @@
-alert(`please note that this website is in development and is not finished. you can still view the page tho.`)
+//alert(`unfinished websight`)
