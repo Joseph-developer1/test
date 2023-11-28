@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'getenetjoseph@gmail.com';
+$siteOwnersEmail = 'josephgetenet@icloud.com';
 
 
 if($_POST) {
@@ -23,7 +23,7 @@ if($_POST) {
 	if (strlen($contact_message) < 15) {
 		$error['message'] = "Please enter your message. It should have at least 15 characters.";
 	}
-   // Subject
+
 	if ($subject == '') { $subject = "Contact Form Submission"; }
 
 
@@ -63,7 +63,5 @@ if($_POST) {
 		echo $response;
 
 	} # end if - there was a validation error
-
 }
-
 ?>
